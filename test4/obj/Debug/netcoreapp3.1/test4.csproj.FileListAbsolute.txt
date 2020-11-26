@@ -1,0 +1,13 @@
+D:\Users\student\Desktop\с#\test4\test4\bin\Debug\netcoreapp3.1\test4.exe
+D:\Users\student\Desktop\с#\test4\test4\bin\Debug\netcoreapp3.1\test4.deps.json
+D:\Users\student\Desktop\с#\test4\test4\bin\Debug\netcoreapp3.1\test4.runtimeconfig.json
+D:\Users\student\Desktop\с#\test4\test4\bin\Debug\netcoreapp3.1\test4.runtimeconfig.dev.json
+D:\Users\student\Desktop\с#\test4\test4\bin\Debug\netcoreapp3.1\test4.dll
+D:\Users\student\Desktop\с#\test4\test4\bin\Debug\netcoreapp3.1\test4.pdb
+D:\Users\student\Desktop\с#\test4\test4\obj\Debug\netcoreapp3.1\test4.csprojAssemblyReference.cache
+D:\Users\student\Desktop\с#\test4\test4\obj\Debug\netcoreapp3.1\test4.AssemblyInfoInputs.cache
+D:\Users\student\Desktop\с#\test4\test4\obj\Debug\netcoreapp3.1\test4.AssemblyInfo.cs
+D:\Users\student\Desktop\с#\test4\test4\obj\Debug\netcoreapp3.1\test4.csproj.CoreCompileInputs.cache
+D:\Users\student\Desktop\с#\test4\test4\obj\Debug\netcoreapp3.1\test4.dll
+D:\Users\student\Desktop\с#\test4\test4\obj\Debug\netcoreapp3.1\test4.pdb
+D:\Users\student\Desktop\с#\test4\test4\obj\Debug\netcoreapp3.1\test4.genruntimeconfig.cache
